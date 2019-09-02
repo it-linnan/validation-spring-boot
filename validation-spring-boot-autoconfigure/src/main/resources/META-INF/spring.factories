@@ -1,0 +1,4 @@
+# AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+priv.ln.validation.spring.boot.autoconfigure.ValidationConfiguration,\
+priv.ln.validation.spring.boot.autoconfigure.ValidatorConfiguration
